@@ -5,4 +5,5 @@ public abstract class Shape {
     String color = "red";
     int size = 10; 
     String color2 = "red"; 
+    String color3 = "red";
 }
